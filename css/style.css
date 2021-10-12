@@ -1,3 +1,4 @@
+
 .nav-link{
 color:black;
 font-weight: 600;
@@ -68,6 +69,27 @@ color:red;
   margin-left: 14px;
   margin-top: 20px;
 }
+.ohyeah{
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+
+}
+.damn{
+  width: 15rem;
+  position:relative;
+
+}
+.text-damn{
+  font-weight: bold;
+  font-size: 20px;
+}
+.text-p{
+  font-size: 20px;
+  font-style: italic;
+}
 .bawah{
   font-size: 3rem;
   font-weight: 900;
@@ -114,13 +136,14 @@ color:red;
 
 .footer .credit{
     text-align: center;
-    color: #1a1826);
+    color: #1a1826;
+
     border-top: 1px solid rgba(0,0,0,.1);
     margin-top: 10px;
     padding-top: 20px;
 }
 
 .footer .credit span{
-    color:##1a1826;
+    color:#1a1826;
 
 }
